@@ -1,0 +1,14 @@
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\bin\Debug\net8.0\ConsoleApp4.2.exe
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\bin\Debug\net8.0\ConsoleApp4.2.deps.json
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\bin\Debug\net8.0\ConsoleApp4.2.runtimeconfig.json
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\bin\Debug\net8.0\ConsoleApp4.2.dll
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\bin\Debug\net8.0\ConsoleApp4.2.pdb
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\ConsoleApp4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\ConsoleApp4.2.AssemblyInfoInputs.cache
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\ConsoleApp4.2.AssemblyInfo.cs
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\ConsoleApp4.2.csproj.CoreCompileInputs.cache
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\ConsoleApp4.2.dll
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\refint\ConsoleApp4.2.dll
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\ConsoleApp4.2.pdb
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\ConsoleApp4.2.genruntimeconfig.cache
+C:\Users\vsoko\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net8.0\ref\ConsoleApp4.2.dll
