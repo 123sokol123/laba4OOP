@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp4._3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Stress Test" Height="350" Width="400">
+    <Grid>
+        <!-- Материал -->
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,0,0" Width="100" Text="Material" />
+        <ListBox x:Name="materialsListBox" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,30,0,0" Width="150" Height="100" SelectionChanged="selectionChanged">
+            <ListBoxItem Content="StainlessSteel" />
+            <ListBoxItem Content="Aluminium" />
+            <ListBoxItem Content="ReinforcedConcrete" />
+            <ListBoxItem Content="Composite" />
+            <ListBoxItem Content="Titanium" />
+        </ListBox>
+
+        <!-- Сечение -->
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" Margin="180,10,0,0" Width="100" Text="Cross Section" />
+        <ListBox x:Name="crossSectionsListBox" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="180,30,0,0" Width="150" Height="100" SelectionChanged="selectionChanged">
+            <ListBoxItem Content="IBeam" />
+            <ListBoxItem Content="Box" />
+            <ListBoxItem Content="ZShaped" />
+            <ListBoxItem Content="CShaped" />
+        </ListBox>
+
+        <!-- Результат теста -->
+        <TextBlock VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,140,0,0" Width="100" Text="Test Result" />
+        <ListBox x:Name="testResultsListBox" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,160,0,0" Width="150" Height="60" SelectionChanged="selectionChanged">
+            <ListBoxItem Content="Pass" />
+            <ListBoxItem Content="Fail" />
+        </ListBox>
+
+        <!-- Метка для отображения результатов -->
+        <Label x:Name="testDetailsLabel" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,10" Width="350" Height="30" />
+    </Grid>
+</Window>
